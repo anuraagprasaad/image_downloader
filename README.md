@@ -23,7 +23,7 @@ Usage
 
 2. Go to the cloned directory. 
 
-3. Execute the below command :
+3. Execute the command :
    bin/project
    
 4. The above command will trigger few test cases and url downloader logic to read and download images from the urls.txt file.
