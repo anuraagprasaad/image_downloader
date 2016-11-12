@@ -21,12 +21,11 @@ Usage
 1. Clone the repository using the command :
    git clone https://github.com/anuraagprasaad/image_downloader.git
 
-2. go to the cloned directory 
+2. Go to the cloned directory. 
 
-3. execute the below command :
-
-bin/project
-
+3. Execute the below command :
+   bin/project
+   
 4. The above command will trigger few test cases and url downloader logic to read and download images from the urls.txt file.
 
-5. A new folder called downloads will be automatically created in the project folder. This downloads folder will have date and time wise folders containing downloaded images.
+5. A new folder called downloads will be automatically created in the project folder. This downloads folder will have date and time wise    folders containing downloaded images.
