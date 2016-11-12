@@ -19,8 +19,7 @@ Usage
 =======
 
 1. Clone the repository using the command :
-
-git clone https://github.com/anuraagprasaad/image_downloader.git
+   git clone https://github.com/anuraagprasaad/image_downloader.git
 
 2. go to the cloned directory 
 
