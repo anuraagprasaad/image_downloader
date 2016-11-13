@@ -5,6 +5,8 @@ import urllib.error
 
 import img_utilities
 
+# Main download logic for images download. On invocation, a downloads directory will be created first and
+# for each valid image in urls.txt file, a new download folder will be created in the format YYYY-MM-DD-HH-MM-SS  
 def download(filename):
 
     url_list = read_url_file(filename)
