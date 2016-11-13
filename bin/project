@@ -1,6 +1,8 @@
 #!/bin/bash
-
 BINPATH='dirname $0'
-python "./src/test_img_downloader.py" $@
-python "./src/main.py" $@
-
+while true
+do	
+	python "./src/test_img_downloader.py" $@
+	python "./src/main.py" $@
+	sleep 300 # sleep for 5 minutes
+done
